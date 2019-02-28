@@ -1,0 +1,11 @@
+/* pages/about/about.wxss */
+.nav{
+  width: 430rpx;
+  margin: 0 auto;
+}
+.vendor{
+ width: 430rpx;
+ height: 430rpx;
+}
+
+
